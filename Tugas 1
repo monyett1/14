@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="style7.css">
+  <title>ini punya erna</title>
+</head>
+<body>
+  <div class="container-satu">
+    <div class="kolom-utama">
+      <h1>Mixue</h1>
+      <p>Mixue Ice Cream & Tea (Hanzi: 蜜雪冰城; Pinyin: Mìxuě Bīngchéng) adalah sebuah perusahaan waralaba yang menjual es krim sajian lembut dan minuman teh asal Zhengzhou, Henan, Tiongkok dan didirikan pada 16 Juni 1997.Hingga 2023, sedikitnya 21.581 gerai Mixue telah beroperasi di Tiongkok dan sedikitnya 12 negara lainnya di Asia-Pasifik.
+      </p>
+      <p>Mixue berasal dari kata-kata Mi dan Xue dalam bahasa Mandarin. Mi berarti “madu” yang diambil dari kata feng mi dan tiang mi yang berarti manis, sedangkan Xue berarti “salju”. Dalam kombinasi, Mixue memiliki arti “salju yang manis seperti madu</p>
+      <p>Mixue telah hadir di Indonesia sejak tahun 2020 dengan gerai pertamanya di Cihampelas Walk, Kota Bandung[3] dan saat ini memiliki lebih dari seribuan gerai di seluruh Indonesia.[2] Produk ini telah mendapatkan sertifikasi halal oleh Majelis Ulama Indonesia sejak awal 2023.</p>
+    </div>
+    <div class="sidebar-satu">
+      <h3>Info Mixue</h3>
+      <ul>
+         <li><a href="https://lynk.id/mixueindonesia?fbclid=PAAabCMyicbuw4ns5PO1M9XL-HCTl90773-9ChSOAq9fCQpnYPEFmHwTK5tp4">mixueindonesia</a></li>
+         <li><a href="https://id.m.wikipedia.org/wiki/Mixue_Ice_Cream_%26_Tea">Wikipedia</a></li>
+         <li><a href="https://instagram.com/mixue.pekalonganhayamwuruk?igshid=MzRlODBiNWFlZA==">instagram</a></li>
+         <li><a href="https://www.tiktok.com/@mixueindonesia?_t=8ckWQU1aSn4&_r=1">Tiktok</a></li>
+         <li><a href="https://food.grab.com/id/id/restaurant/mixue-mangga-besar-delivery/6-C3XDAXMAE6V2NE">food grab</a></li>
+      </ul>
+    </div>
+    <div class="sidebar-dua">
+      <h3>halal</h3>
+      <p>Mixue Ice Cream & Tea akhirnya mengantongi sertifikat halal dari Majelis Ulama Indonesia (MUI). MUI menyatakan seluruh bahan yang digunakan Mixue halal dan suci.</p>
+    </div>
+  </div>
+  
+  
+  <div class="container-dua">
+    <div class="layanan satu">
+      <h4>Berry Bean Sundae</h4>
+      <p>Es Krim Strawberry Lucky Sundae ini adalah varian es krim sundae dengan saus strawberry dan potongan strawberry sebagai topping. Harga dari menu ini ditawarkan dengan harga Rp 18 ribu.</p>
+    </div>
+    <div class="layanan dua">
+      <h4>Boba Sudae</h4>
+      <p>Pilihan minuman Es Krim Mixue Boba Sundae ini terdiri dari es krim vanilla yang dicampur dengan saus Brown Sugar dan ditambah dengan topping Boba. Menu ini hanya dengan harga Rp 18 ribu.</p>
+    </div>
+    <div class="layanan tiga">
+      <h4>Chocolate Lucky Sundae</h4>
+      <p>Menu satu ini Masih seharga Rp16000, Chocolate lucky sundae benar-benar punya tekstur cokelat yang meleleh di mulut dan rasa manis yang bikin ketagiha</p>
+    </div>
+     <div class="layanan empat">
+      <h4>Ice cream eral grey tea</h4>
+      <p>Earl Grey Tea dengan es krim di atasnya. Earl Grey adalah teh hitam yang dicampur dengan minyak bergam</p>
+    </div>
+    <div class="layanan lima">
+      <h4>Brown Sugar Pearl Milk Tea</h4>
+      <p>merupakan varian milk tea yang hadir dilengkapi dengan gula jawa cair dan topping boba yang sangat kenyal dan pastinya bukan boba tepung biasa.</p>
+    </div>
+    <div class="layanan enam">
+      <h4>Hawaiian Fruit Tea</h4>
+      <p>Menu fruit tea yang pertama ini bernama “Hawaiian Fruit Tea”, segarnya teh melati yang dipadukan dengan buah mangga asli dan jeli rasa buah persik sangat cocok sekali diminum saat cuaca panas</p>
+    </div>
+  </div>
+</body>
+</html>
